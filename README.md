@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -57,10 +57,7 @@
             <h2>tiktok</h2>
             <p><a href="https://www.tiktok.com/@dyw20?_t=8lsvBYElF1l&_r=1" target=""><span style="color: #ff9696; font-size: 30px;">انتقال</span></a></p>
             
-       </div>
-        <div class="large-box">
-            <h2>tiktok2</h2>
-            <p><a href="https://www.tiktok.com/@co.x25?_t=8lsvEeaop6X&_r=1" target=""><span style="color: #ff9696; font-size: 30px;">انتقال</span></a></p           
+               
 
          </p>
         </div>
