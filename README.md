@@ -6,12 +6,16 @@
     <title>My Information</title>
     <style>
         body {
-            background-color: #f0f0f0; /* for contrast with the background image */
-            background-image: url('https://media.discordapp.net/attachments/1205918774096564346/1231217507059372132/e65a84c4e9265325a9f2af6829506e45.jpg?ex=663627a8&is=6623b2a8&hm=570a84894e216837cf78e016603f6fde1b2a701b4938994f82bb22e2dea55afd&');
-            background-size: cover;
-            background-position: center;
-            background-repeat: no-repeat;
-        }
+	background-color: #f0f0f0; 
+	background-image: url('https://media.discordapp.net/attachments/973450720114266122/1231271101498396783/image_14.png?ex=66365992&is=6623e492&hm=b76b89f197754f572e71aab117c36c422bb3b87cd5107f7f5112807082e5f289&=&format=webp&quality=lossless&width=466&height=350');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 100%; 
+	margin: 0;
+	padding: 0;
+	}
+
         .info-container {
             display: flex;
             flex-direction: column;
@@ -19,7 +23,7 @@
             margin-top: 50px;
         }
         .info-box {
-            background-color: white;
+            background-image: url('https://media.discordapp.net/attachments/973450720114266122/1231262690186366986/New_Project_4.png?ex=663651bd&is=6623dcbd&hm=4933685b390e15b6e04695eee90033ecb624a36aec6d4adb98b9ba224e7b58bc&=&format=webp&quality=lossless&width=374&height=467');
             padding: 20px;
             margin: 20px;
             border-radius: 10px;
@@ -41,17 +45,23 @@
 <body>
     <div class="info-container">
         <div class="info-box">
-            <h2>Name: Abbas</h2>
-            <p>Date of Birth: 2008</p>
-            <p>Country: Iraq</p>
-            <p>Religion: Muslim</p>
-            <p>Denomination: Sunni</p>
-            <p>Discord: g_73</p>
+            <h2 style="color: #ffc5c5;">Name: Ghalis </h2>
+            <p style="color: white;">Date of Birth: 2009/7/15</p>
+            <p style="color: white;">Country: Saudi </p>
+            <p style="color: white;">Religion: Muslim</p>
+            <p style="color: white;">Denomination: Sunni</p>
+            <p style="color: white;">Discord: e.wh</p>
             
         </div>
         <div class="large-box">
-            <h2>Channels  </h2>
-            <p>YouTube: https://www.youtube.com/@ABS_BW
+            <h2>tiktok</h2>
+            <p><a href="https://www.tiktok.com/@dyw20?_t=8lsvBYElF1l&_r=1" target=""><span style="color: #ff9696; font-size: 30px;">انتقال</span></a></p>
+            
+       </div>
+        <div class="large-box">
+            <h2>tiktok2</h2>
+            <p><a href="https://www.tiktok.com/@co.x25?_t=8lsvEeaop6X&_r=1" target=""><span style="color: #ff9696; font-size: 30px;">انتقال</span></a></p           
+
          </p>
         </div>
     </div>
