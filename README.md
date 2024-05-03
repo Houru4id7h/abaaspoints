@@ -45,7 +45,7 @@
 <body>
     <div class="info-container">
         <div class="info-box">
-            <h2 style="color: #ffc5c5;">Name: Ghalis </h2>
+            <h2 style="color: #ffc5c5;">Name: M7md </h2>
             <p style="color: white;">Date of Birth: 2009/7/15</p>
             <p style="color: white;">Country: Saudi </p>
             <p style="color: white;">Religion: Muslim</p>
